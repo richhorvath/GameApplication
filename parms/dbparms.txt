@@ -1,0 +1,4 @@
+username=mathgame_user
+password=mathgame
+host=localhost
+db=mathgame
